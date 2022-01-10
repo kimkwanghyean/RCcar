@@ -1,1 +1,5 @@
-# RCcar
+![rc](https://user-images.githubusercontent.com/62790339/148757136-726f1e2b-3f92-4168-a08e-d7e7cdbf461d.png)
+![얼굴 인식](https://user-images.githubusercontent.com/62790339/148757142-4eb57dd2-9a02-4d78-9e60-26bebe6916ac.png)
+![rc2](https://user-images.githubusercontent.com/62790339/148757148-e06f5d4e-7bb4-46bc-aed3-e3c7a1fbc12b.png)
+![코드](https://user-images.githubusercontent.com/62790339/148757154-fae738c9-07ba-4248-a171-8eeb25d75886.png)
+![외형](https://user-images.githubusercontent.com/62790339/148757157-a64e6167-36b6-4feb-8da5-8f94b735f4b3.png)
